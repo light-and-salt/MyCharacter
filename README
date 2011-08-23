@@ -1,0 +1,4 @@
+This is MyCharacter.
+I built it using some scripts that Unity's FPC uses. But this character is actually simpler than that. It doesn't have character motor.
+I plan to make futher modification about it: now it is using the mouse to navigate, which is a little distracting when you also want your mouse as a cursor; 
+in the future, mouse can be used as a navigator when pressed down and as a cursor when released.
